@@ -1,2 +1,10 @@
-# WebSocketConectTCPSocketDemo
+﻿# WebSocketConectTCPSocketDemo
 WebSocket服务端连接TCPSocket服务端的例子，打通浏览器WebSocket与TCPSocket的桥梁
+
+#描述
+通过浏览器的WebSocketAPI去连接WebSocket服务器，然后WebSocket服务器主动去连接TCPSocket的服务器，从而实现浏览器与其它移动终端、PC终端共享一个TCPSocket服务器，解决了浏览器和PC端、移动端的通信问题，可以搭建浏览器端和PC端的即时聊天功能、文件传输功能
+
+#使用方式
+修改AppConfig配置，修改TCPSocketServer的IP地址和端口
+
+使用WebsocketClient连接WebSocketServer即可
