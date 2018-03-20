@@ -1,0 +1,2 @@
+# WebSocketConectTCPSocketDemo
+WebSocket服务端连接TCPSocket服务端的例子，打通浏览器WebSocket与TCPSocket的桥梁
