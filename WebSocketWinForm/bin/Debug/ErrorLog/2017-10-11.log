@@ -1,0 +1,24 @@
+2017-10-11 18:01:01,398 [8] ERROR AppLog - websocket启动失败：
+System.InvalidOperationException: The underlying listener has failed to start. ---> System.Net.Sockets.SocketException: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   在 System.Net.Sockets.TcpListener.Start()
+   在 WebSocketSharp.Server.WebSocketServer.startReceiving() 位置 e:\other_code\WebSocketDemo\WebSocketDemo\websocket-sharp\Server\WebSocketServer.cs:行号 958
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 WebSocketSharp.Server.WebSocketServer.startReceiving() 位置 e:\other_code\WebSocketDemo\WebSocketDemo\websocket-sharp\Server\WebSocketServer.cs:行号 962
+   在 WebSocketSharp.Server.WebSocketServer.start(ServerSslConfiguration sslConfig) 位置 e:\other_code\WebSocketDemo\WebSocketDemo\websocket-sharp\Server\WebSocketServer.cs:行号 942
+   在 WebSocketSharp.Server.WebSocketServer.Start() 位置 e:\other_code\WebSocketDemo\WebSocketDemo\websocket-sharp\Server\WebSocketServer.cs:行号 1352
+   在 WebSocketWinForm.WebSocketDemo..ctor() 位置 e:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\WebSocketDemo.cs:行号 38
+2017-10-11 18:01:01,398 [8] ERROR AppLog - websocket启动失败：
+System.InvalidOperationException: The underlying listener has failed to start. ---> System.Net.Sockets.SocketException: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   在 System.Net.Sockets.TcpListener.Start()
+   在 WebSocketSharp.Server.WebSocketServer.startReceiving() 位置 e:\other_code\WebSocketDemo\WebSocketDemo\websocket-sharp\Server\WebSocketServer.cs:行号 958
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 WebSocketSharp.Server.WebSocketServer.startReceiving() 位置 e:\other_code\WebSocketDemo\WebSocketDemo\websocket-sharp\Server\WebSocketServer.cs:行号 962
+   在 WebSocketSharp.Server.WebSocketServer.start(ServerSslConfiguration sslConfig) 位置 e:\other_code\WebSocketDemo\WebSocketDemo\websocket-sharp\Server\WebSocketServer.cs:行号 942
+   在 WebSocketSharp.Server.WebSocketServer.Start() 位置 e:\other_code\WebSocketDemo\WebSocketDemo\websocket-sharp\Server\WebSocketServer.cs:行号 1352
+   在 WebSocketWinForm.WebSocketDemo..ctor() 位置 e:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\WebSocketDemo.cs:行号 38

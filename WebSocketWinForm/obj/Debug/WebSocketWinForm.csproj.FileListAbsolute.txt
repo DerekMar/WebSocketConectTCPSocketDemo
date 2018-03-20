@@ -1,0 +1,29 @@
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\bin\Debug\WebSocketWinForm.exe.config
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\bin\Debug\WebSocketWinForm.exe
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\bin\Debug\WebSocketWinForm.pdb
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\obj\Debug\WebSocketWinForm.csprojResolveAssemblyReference.cache
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\obj\Debug\WebSocketWinForm.WebSocketDemo.resources
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\obj\Debug\WebSocketWinForm.Properties.Resources.resources
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\obj\Debug\WebSocketWinForm.csproj.GenerateResource.Cache
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\obj\Debug\WebSocketWinForm.exe
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\obj\Debug\WebSocketWinForm.pdb
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\bin\Debug\websocket-sharp.dll
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\bin\Debug\websocket-sharp.pdb
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\bin\Debug\Microsoft.CSharp.dll
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\bin\Debug\Newtonsoft.Json.dll
+E:\other_code\WebSocketDemo\WebSocketDemo\WebSocketWinForm\bin\Debug\log4net.dll
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\bin\Debug\WebSocketWinForm.exe.config
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\obj\Debug\WebSocketWinForm.exe
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\obj\Debug\WebSocketWinForm.pdb
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\obj\Debug\WebSocketWinForm.csprojResolveAssemblyReference.cache
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\obj\Debug\WebSocketWinForm.WebSocketDemo.resources
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\obj\Debug\WebSocketWinForm.Properties.Resources.resources
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\obj\Debug\WebSocketWinForm.csproj.GenerateResource.Cache
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\bin\Debug\WebSocketWinForm.exe
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\bin\Debug\WebSocketWinForm.pdb
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\bin\Debug\Microsoft.CSharp.dll
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\bin\Debug\Newtonsoft.Json.dll
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketWinForm\bin\Debug\websocket-sharp.pdb
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketConectTCPSocketDemo\WebSocketWinForm\bin\Debug\WebSocketWinForm.exe.config
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketConectTCPSocketDemo\WebSocketWinForm\obj\Debug\WebSocketWinForm.exe
+E:\other_code\WebSocketDemo\WebSocketDemo - 副本\WebSocketConectTCPSocketDemo\WebSocketWinForm\obj\Debug\WebSocketWinForm.pdb
